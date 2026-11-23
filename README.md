@@ -29,7 +29,7 @@ For the development of this project, we have used the following softwares and to
 
 <img src="https://people.cas.sc.edu/rorden/mricro/icon.png" height=10 width=15/> [Mricron](https://www.nitrc.org/projects/mricron) software for creating the tumor masks 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=20 width=20/> Python [version] (Python Software Foundation).
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=20 width=20/> Python(Python Software Foundation).
 
 # License
 Apache License 2.0
